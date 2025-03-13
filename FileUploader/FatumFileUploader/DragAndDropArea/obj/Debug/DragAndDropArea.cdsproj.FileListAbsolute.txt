@@ -1,0 +1,2 @@
+C:\Users\nilesh.s\Downloads\FileUploader\FatumFileUploader\DragAndDropArea\obj\Debug\DragAndDropArea.cdsproj.AssemblyReference.cache
+C:\Users\nilesh.s\Downloads\FileUploader\FatumFileUploader\DragAndDropArea\obj\Debug\DragAndDropArea.cdsproj.CoreCompileInputs.cache

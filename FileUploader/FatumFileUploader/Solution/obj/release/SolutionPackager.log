@@ -1,0 +1,20 @@
+2025-03-11 16:01:48.030 - Info	
+Packing C:\Users\sanjiv.s\Downloads\DragNDrop\FileUploader\FatumFileUploader\solution\obj\release\Metadata to bin\release\Solution.zip
+
+2025-03-11 16:01:48.049 - Info	Processing Component: Entities
+2025-03-11 16:01:48.053 - Info	Processing Component: Roles
+2025-03-11 16:01:48.061 - Info	Processing Component: Workflows
+2025-03-11 16:01:48.061 - Info	Processing Component: FieldSecurityProfiles
+2025-03-11 16:01:48.062 - Info	Processing Component: Templates
+2025-03-11 16:01:48.063 - Info	Processing Component: EntityMaps
+2025-03-11 16:01:48.063 - Info	Processing Component: EntityRelationships
+2025-03-11 16:01:48.065 - Info	Processing Component: OrganizationSettings
+2025-03-11 16:01:48.066 - Info	Processing Component: optionsets
+2025-03-11 16:01:48.067 - Info	Processing Component: CustomControls
+2025-03-11 16:01:48.078 - Info	 - BeverControls.DragAndDropArea
+2025-03-11 16:01:48.081 - Info	Processing Component: SolutionPluginAssemblies
+2025-03-11 16:01:48.084 - Info	Processing Component: EntityDataProviders
+2025-03-11 16:01:48.091 - Info	Processing Sharded Component Files
+2025-03-11 16:01:48.173 - Info	
+Managed Pack complete.
+

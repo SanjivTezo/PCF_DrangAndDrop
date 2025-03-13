@@ -1,0 +1,4 @@
+C:\Users\nilesh.s\Downloads\FileUploader\obj\Debug\FileUploader.cdsproj.AssemblyReference.cache
+C:\Users\nilesh.s\Downloads\FileUploader\obj\Debug\FileUploader.cdsproj.CoreCompileInputs.cache
+C:\Users\sanjiv.s\Downloads\DragNDrop\Fileuploader\obj\Debug\FileUploader.cdsproj.AssemblyReference.cache
+C:\Users\sanjiv.s\Downloads\DragNDrop\Fileuploader\obj\Debug\FileUploader.cdsproj.CoreCompileInputs.cache

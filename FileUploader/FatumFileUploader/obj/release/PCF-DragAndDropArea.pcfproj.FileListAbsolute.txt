@@ -1,0 +1,2 @@
+C:\Users\sanjiv.s\Downloads\DragNDrop\FileUploader\FatumFileUploader\obj\release\PCF-DragAndDropArea.pcfproj.AssemblyReference.cache
+C:\Users\sanjiv.s\Downloads\DragNDrop\FileUploader\FatumFileUploader\obj\release\PCF-DragAndDropArea.pcfproj.CoreCompileInputs.cache

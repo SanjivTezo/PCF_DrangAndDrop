@@ -1,0 +1,19 @@
+2024-04-22 12:33:14.469 - Info	
+Packing C:\Users\nilesh.s\Downloads\FileUploader\FatumFileUploader\DragAndDropArea\obj\Debug\Metadata to bin\Debug\DragAndDropArea.zip
+
+2024-04-22 12:33:14.488 - Info	Processing Component: Entities
+2024-04-22 12:33:14.493 - Info	Processing Component: Roles
+2024-04-22 12:33:14.498 - Info	Processing Component: Workflows
+2024-04-22 12:33:14.498 - Info	Processing Component: FieldSecurityProfiles
+2024-04-22 12:33:14.499 - Info	Processing Component: Templates
+2024-04-22 12:33:14.500 - Info	Processing Component: EntityMaps
+2024-04-22 12:33:14.500 - Info	Processing Component: EntityRelationships
+2024-04-22 12:33:14.505 - Info	Processing Component: OrganizationSettings
+2024-04-22 12:33:14.506 - Info	Processing Component: optionsets
+2024-04-22 12:33:14.506 - Info	Processing Component: CustomControls
+2024-04-22 12:33:14.511 - Info	Processing Component: SolutionPluginAssemblies
+2024-04-22 12:33:14.513 - Info	Processing Component: EntityDataProviders
+2024-04-22 12:33:14.522 - Info	Processing Sharded Component Files
+2024-04-22 12:33:14.572 - Info	
+Unmanaged Pack complete.
+

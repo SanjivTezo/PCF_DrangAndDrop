@@ -1,0 +1,19 @@
+2024-04-22 11:59:45.016 - Info	
+Packing C:\Users\nilesh.s\Downloads\FileUploader\FatumFileUploader\newsol\obj\Debug\Metadata to bin\Debug\newsol.zip
+
+2024-04-22 11:59:45.033 - Info	Processing Component: Entities
+2024-04-22 11:59:45.037 - Info	Processing Component: Roles
+2024-04-22 11:59:45.039 - Info	Processing Component: Workflows
+2024-04-22 11:59:45.039 - Info	Processing Component: FieldSecurityProfiles
+2024-04-22 11:59:45.040 - Info	Processing Component: Templates
+2024-04-22 11:59:45.042 - Info	Processing Component: EntityMaps
+2024-04-22 11:59:45.042 - Info	Processing Component: EntityRelationships
+2024-04-22 11:59:45.045 - Info	Processing Component: OrganizationSettings
+2024-04-22 11:59:45.047 - Info	Processing Component: optionsets
+2024-04-22 11:59:45.047 - Info	Processing Component: CustomControls
+2024-04-22 11:59:45.051 - Info	Processing Component: SolutionPluginAssemblies
+2024-04-22 11:59:45.053 - Info	Processing Component: EntityDataProviders
+2024-04-22 11:59:45.059 - Info	Processing Sharded Component Files
+2024-04-22 11:59:45.117 - Info	
+Unmanaged Pack complete.
+

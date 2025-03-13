@@ -1,0 +1,2 @@
+C:\Users\nilesh.s\Downloads\FileUploader\FatumFileUploader\newsol\obj\Debug\newsol.cdsproj.AssemblyReference.cache
+C:\Users\nilesh.s\Downloads\FileUploader\FatumFileUploader\newsol\obj\Debug\newsol.cdsproj.CoreCompileInputs.cache

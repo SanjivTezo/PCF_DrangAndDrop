@@ -1,0 +1,2 @@
+C:\Users\sanjiv.s\Downloads\DragNDrop\FileUploader\FatumFileUploader\solution\obj\release\Solution.cdsproj.AssemblyReference.cache
+C:\Users\sanjiv.s\Downloads\DragNDrop\FileUploader\FatumFileUploader\solution\obj\release\Solution.cdsproj.CoreCompileInputs.cache

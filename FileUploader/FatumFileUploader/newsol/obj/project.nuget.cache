@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClLZPE3yNcHzQGvtiNJ71tynKz6itd/Qe9HtPvr1KRZUHU2TQW4yorau1NIpugOUX7tR1CWQ3FfoY0TeCBbxFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nilesh.s\\Downloads\\FileUploader\\FatumFileUploader\\newsol\\newsol.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilesh.s\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\nilesh.s\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\nilesh.s\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.31.2\\microsoft.powerapps.msbuild.solution.1.31.2.nupkg.sha512"
+  ],
+  "logs": []
+}
